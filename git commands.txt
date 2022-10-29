@@ -1,0 +1,19 @@
+// to add
+git init
+git status          // to check status
+git add filename   // to add single file
+git add .          // to add all the file
+
+// to commit
+git commit -m "final submission"
+
+// to push
+git remote add origin https://github.com/Ankit792/fifth-project.git         // changes
+git push -u origin master   
+
+
+// for secont time commit 
+git status
+git add .
+git commit -m "second commit"
+git push
